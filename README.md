@@ -4,7 +4,7 @@
 
 In this lab, you'll pass props around and move state to the edge of the application. 
 
-## The Flawed Fruit Basket
+## The Flawed Fruitf Basket
 
 ![](http://www.animaatjes.de/glitzer-bilder/e/essen-und-trinken/glitzer049.gif)
 
